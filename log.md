@@ -37,3 +37,11 @@
 slice() didn't quite work so i went with the suggested methood of substring()
 
 **Link to work:** http://codepen.io/Enyjay/pen/OpLJMV?editors=0012
+
+
+### Day 2: February 22, 2017 
+**Today's Progress**: completed the FCC Basic Algoritm Truncate a string 
+
+**Thoughts:** I was only able to complete this challenge by mmoving the str.len > num && num <= 3 to the top of the if ... else chain in order for all the conditions to be met
+
+**Link to work:** http://codepen.io/Enyjay/pen/oZvXOP?editors=0012
