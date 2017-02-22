@@ -33,6 +33,7 @@
 **Today's Progress**: Worked on the FCC Basic Algoritm Confirm the Ending 
 
 **Thoughts:** I used the .slice(-1)[0] method, which i used to returned the  value of the last index however, that didn't work becuase i needed to return same in sesame which return false because i was returning sesame.
+
 slice() didn't quite work so i went with the suggested methood of substring()
 
 **Link to work:** http://codepen.io/Enyjay/pen/OpLJMV?editors=0012
