@@ -51,3 +51,19 @@ slice() didn't quite work so i went with the suggested methood of substring()
 
 **Thoughts:** Paired up with Nikki from the https://gitter.im/FreeCodeCamp/LetsPair gitter, we work on some of the algorithms together and started the JSON track 
 **Link to work:** https://codepen.io/Enyjay/pen/mWbKaa
+###
+
+### Take 2 of #100DaysOfCode
+
+###
+### Day 1: october 1st , 2017 
+**Today's Progress**: workd on Advance FCC project JS calculator
+
+**Thoughts:** working on the pseudo code before starting the work.
+**Link to work:** didn't post a link 
+
+
+### Day 2: october 2 , 2017 
+**Today's Progress**: linked up with Nafissa from careerDevs. to work on Day 8 of HackerRank 30 (completed)
+**Thoughts:** bracket notation is necessary when populating an empty object. the integer given is used to determine the length of the loop, as well where to start checking for user case
+**Link to work:** https://github.com/Neous1/HackerRank_30/blob/master/day8_Dictionaries_Map.js
