@@ -67,3 +67,10 @@ slice() didn't quite work so i went with the suggested methood of substring()
 **Today's Progress**: linked up with Nafissa from careerDevs. to work on Day 8 of HackerRank 30 (completed)
 **Thoughts:** bracket notation is necessary when populating an empty object. the integer given is used to determine the length of the loop, as well where to start checking for user case
 **Link to work:** https://github.com/Neous1/HackerRank_30/blob/master/day8_Dictionaries_Map.js
+
+###
+### Day 3: october 3 , 2017 
+**Today's Progress**: FCC day: workd on Advance FCC PairWise algo and the JS calculator on FCC
+
+**Thoughts:** Pair programming with Nikkin and Caroline, helped Caroline with some css stuff completed the pairwise algo on advanced, worked on AC button
+**Link to work:** https://github.com/Neous1/FCC/blob/master/javascript_calculator/js/app.js
