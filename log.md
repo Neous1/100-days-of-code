@@ -74,3 +74,8 @@ slice() didn't quite work so i went with the suggested methood of substring()
 
 **Thoughts:** Pair programming with Nikkin and Caroline, helped Caroline with some css stuff completed the pairwise algo on advanced, worked on AC button
 **Link to work:** https://github.com/Neous1/FCC/blob/master/javascript_calculator/js/app.js
+
+### Day 4: october 4 , 2017 
+**Today's Progress**: worked on the FCC calculator,restarded CS50 earlier than i would have like, so i went back to the scratch project whre i created a sprite for my asteroid scratch project.
+**Thoughts:** I'm havig a tough time with printing/loging the value of my button once clicked , leading me to believe my event emmitter might not be emmitting a push
+**Link to work:** https://github.com/Neous1/FCC/blob/master/javascript_calculator/js/app.js
