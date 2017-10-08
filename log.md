@@ -79,3 +79,9 @@ slice() didn't quite work so i went with the suggested methood of substring()
 **Today's Progress**: worked on the FCC calculator,restarded CS50 earlier than i would have like, so i went back to the scratch project whre i created a sprite for my asteroid scratch project.
 **Thoughts:** I'm havig a tough time with printing/loging the value of my button once clicked , leading me to believe my event emmitter might not be emmitting a push
 **Link to work:** https://github.com/Neous1/FCC/blob/master/javascript_calculator/js/app.js
+
+### Day 5: october 5 , 2017 
+**Today's Progress**: Almost done with the calculator, 
+**Thoughts:** I've got the addEventlistener() to work. only thing left is to handle the "." as a last entry when "/" is clicked.
+i'm just thinking of adding a zero after the decimal point to handle it .
+**Link to work:** https://github.com/Neous1/FCC/blob/master/javascript_calculator/js/app.js
