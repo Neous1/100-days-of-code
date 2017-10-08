@@ -85,3 +85,13 @@ slice() didn't quite work so i went with the suggested methood of substring()
 **Thoughts:** I've got the addEventlistener() to work. only thing left is to handle the "." as a last entry when "/" is clicked.
 i'm just thinking of adding a zero after the decimal point to handle it .
 **Link to work:** https://github.com/Neous1/FCC/blob/master/javascript_calculator/js/app.js
+
+### Day 6: october 6 , 2017 
+**Today's Progress**: Started working on a java course on udemy. competed section 1-3
+**Thoughts:** Learning about java data types  .
+**Link to work:** https://github.com/Neous1/completeJavaMasterclass
+
+### Day 7: october 7 , 2017 
+**Today's Progress**: more data types (the calm before the storm). working on section 4
+**Thoughts:** Learning about java data types  . (had to steal some times from my family on our weekend getaway to santa's village in NH)
+**Link to work:** https://github.com/Neous1/completeJavaMasterclass
