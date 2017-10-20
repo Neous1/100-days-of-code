@@ -95,3 +95,18 @@ i'm just thinking of adding a zero after the decimal point to handle it .
 **Today's Progress**: more data types (the calm before the storm). working on section 4
 **Thoughts:** Learning about java data types  . (had to steal some times from my family on our weekend getaway to santa's village in NH)
 **Link to work:** https://github.com/Neous1/completeJavaMasterclass
+
+### Day 8: october 8, 2017 
+**Today's Progress**: more data types (the calm before the storm). working on section 6
+**Thoughts:** Learning about java data types  . (had to minimize our outings out of New hampshire so i could get home and get properly situated and study for Thursday's meeting with a a partner @ WaterFire HQ)
+**Link to work:** https://github.com/Neous1/completeJavaMasterclass
+
+### Day 9, 10, 11, 12, 13: october 9, 10, 11, 12 13, 2017 
+**Today's Progress**: Deep diving into Java basics. working on section 5-10
+**Thoughts:** Learning about java data types  . Back to my office. 
+**Link to work:** https://github.com/Neous1/completeJavaMasterclass
+
+### Day 14 : october 14, 2017
+
+
+
